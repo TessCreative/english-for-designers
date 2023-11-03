@@ -1,4 +1,8 @@
-# Revision
+# One Word: But
+
+
+
+## Revision
 
 But. The two-sided blade word. Which one it’s going to be next time is all up to you.
 
