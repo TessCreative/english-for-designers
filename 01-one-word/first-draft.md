@@ -1,6 +1,6 @@
 # One word: But
 
-- [First Draft](first-draft.md) YOU ARE HERE
+- [First Draft](first-draft.md) (YOU ARE HERE)
 - [Revision](revision.md)
 - [Final](index.md)
 
