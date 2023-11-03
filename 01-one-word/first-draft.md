@@ -1,4 +1,10 @@
-# First draft
+# One word: But
+
+- [First Draft](first-draft.md) YOU ARE HERE
+- [Revision](revision.md)
+- [Final](index.md)
+
+## First draft
 
 But. A daily used word sometimes replaced with a synonym to prevent its overuse. 
 
