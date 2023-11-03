@@ -1,4 +1,10 @@
-# Final
+# One Word: But
+
+- [First Draft](first-draft.md) 
+- [Revision](revision.md)
+- [Final](index.md) (YOU ARE HERE)
+
+## Final
 
 But. The two-sided blade word. Which one it’s going to be next time is all up to you.
 
