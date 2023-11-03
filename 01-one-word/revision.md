@@ -1,6 +1,8 @@
 # One Word: But
 
-
+- [First Draft](first-draft.md) 
+- [Revision](revision.md) (YOU ARE HERE)
+- [Final](index.md) 
 
 ## Revision
 
