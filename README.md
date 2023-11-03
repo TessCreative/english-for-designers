@@ -3,4 +3,4 @@
 ## content
 (First Draft [first-draft.md])
 (Revision [revision.md])
-(Final [index.md])
+[Final (index.md)]
