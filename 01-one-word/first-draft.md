@@ -1,4 +1,4 @@
-#First draft
+# First draft
 
 But. A daily used word sometimes replaced with a synonym to prevent its overuse. 
 
