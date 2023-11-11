@@ -15,4 +15,4 @@ I am here to tell immersive stories about unique characters in video games.
 
 THANK YOU!
 
-See my presentation
+See my [presentation](https://www.canva.com/design/DAFzyQPEQXg/Juk2QSs77XM8zXCNxTtVdQ/view?utm_content=DAFzyQPEQXg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
