@@ -15,8 +15,8 @@ I am here to tell immersive stories about unique characters in video games.
 ### Aki-Rain
 - A 3D character sculpt based on the concept of the fursona by the artist of the same name.
   
-### The World of Iladen
-- A long-term in-developmen personal project. The world of Iladen is intended to be meant for narrative, cinematic, as well as for games and is designed as such.
+### Library
+- A 3D interior of a library at night and day, quiet and peaceful, hiding many stories.
 
 
 THANK YOU!
