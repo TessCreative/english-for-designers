@@ -26,7 +26,7 @@ I am here to tell immersive stories about unique characters in video games.
 - challenge: working with two different concept arts and marging them together (differed in details)
 - sculpting, texture (hand-painted), no retopology and rig (posing)
 
-### Hidden World
+### [Hidden World](https://youtu.be/mKqspzBNTH8)
   ![FinalCam_GlowEffect_NoFading png0001](https://github.com/TessCreative/english-for-designers/assets/149793815/04a985f9-b17b-40e8-8ee4-4938805a37e2)
 - A short animation project on the theme of the “hidden world” – the inner world in which one gets lost when devoted to their passion (dancing)
 - school project (2nd year finals)
