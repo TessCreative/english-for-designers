@@ -3,7 +3,7 @@
 ## About me
 Tereza Koudelková
 
-![Uploading 1697383487152.jpeg…]()
+![1697383487152](https://github.com/TessCreative/english-for-designers/assets/149793815/df45a5f4-2507-403a-9e2f-ddcc499fe37a)
 
 STORIES – CHARACTERS – GAMES
 
