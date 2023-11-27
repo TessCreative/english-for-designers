@@ -3,6 +3,8 @@
 ## About me
 Tereza Koudelková
 
+![Uploading 1697383487152.jpeg…]()
+
 STORIES – CHARACTERS – GAMES
 
 I am here to tell immersive stories about unique characters in video games.
