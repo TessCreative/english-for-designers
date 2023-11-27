@@ -17,7 +17,9 @@ I am here to tell immersive stories about unique characters in video games.
 - school project for my 1st year finals
 - day & night version
 
+![Library_Night](https://github.com/TessCreative/english-for-designers/assets/149793815/a19b2e17-53d6-4616-a094-202a10c24def)
 
+![Library_Day_Shot_2](https://github.com/TessCreative/english-for-designers/assets/149793815/b59871c7-38e9-4346-bf5e-c2977ff8fbce)
 
 ### Aki-Rain
 - A 3D character sculpt based on the concept of the fursona by the artist of the same name
