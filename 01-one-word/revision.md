@@ -1,7 +1,11 @@
-# One Word: But
+# But
+
+by Tereza "Tess" Koudelková
+
+27 November 2023
 
 - [First Draft](first-draft.md) 
-- [Revision](revision.md) (YOU ARE HERE)
+- [Revision](revision.md) (You Are Here)
 - [Final](index.md) 
 
 ## Revision
