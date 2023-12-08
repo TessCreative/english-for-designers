@@ -16,9 +16,7 @@ We use “but” daily, sometimes replacing it with a synonym to prevent its ove
 
 Like to hear someone say “but” if it indicates something good for you? Me too! It can change the whole feeling you have about the conversation in that situation.
 
-Imagine talking with someone about a school test or a job interview you’ve failed. And then they say, “I know it was hard but hey, I know you’ve done all you could and am sure you’ll do better next time!”
-
-Or imagine planning a trip with your friends, knowing your schedule is tight. There’s so much you need to do. But you also want to go on that trip. So you say, “Hey, I have a lot of stuff going on right now, but I will either postpone it or finish it earlier, so I can join you!”
+Imagine planning a trip with your friends, knowing your schedule is tight. There’s so much you need to do. But you also want to go on that trip. So you say, “Hey, I have a lot of stuff going on right now, but I will either postpone it or finish it earlier, so I can join you!”
 
 The positive “but” can have a meaningful impact on our lives and relationships. Ask yourself this question: “Is it necessary?” You really can’t think of anything to support the other? Do you not have any time to change your schedule to make time for your friends? What is going to have a better outcome? Saying, “Oh, sorry, I’d love to go, but I have no time,” or, “Well, I do have a lot of stuff going on but I can reorganize my schedule.”. So, is it necessary to do all that stuff at that time? Of course, sometimes it is. In those other cases? Please, stop hiding behind the word but, and instead, get your time management together.
 
