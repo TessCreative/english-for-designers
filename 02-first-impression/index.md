@@ -1,7 +1,7 @@
 # FIRST IMPRESSION
 
 ## About me
-![1697383487152-2](https://github.com/TessCreative/english-for-designers/assets/149793815/ee9c47fc-e073-4799-a45f-09a204229f36)
+![1697383487152-2](https://github.com/TessCreative/english-for-designers/assets/149793815/ee9c47fc-e073-4799-a45f-09a204229f36 =250x250)
 
 TEREZA KOUDELKOVÁ
 
