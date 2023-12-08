@@ -1,7 +1,7 @@
 # FIRST IMPRESSION
 
 ## About me
-![1697383487152](https://github.com/TessCreative/english-for-designers/assets/149793815/df45a5f4-2507-403a-9e2f-ddcc499fe37a)
+![1697383487152](https://github.com/TessCreative/english-for-designers/assets/149793815/e9499848-41bf-43ce-989e-1ef498acef8f)
 TEREZA KOUDELKOVÁ
 
 STORIES – CHARACTERS – GAMES
