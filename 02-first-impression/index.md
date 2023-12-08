@@ -6,7 +6,7 @@ TEREZA KOUDELKOVÁ
 
 STORIES – CHARACTERS – GAMES
 
-I am here to tell immersive stories about unique characters in video games.
+I am a storyteller with enthusiasm for digital graphics and games. My main focus is on creation of unique characters who tell immersive stories. I look for a story in everything, and am able to connect seemingly impossible fragments of stories.
 
 ## Featured Projects
 
