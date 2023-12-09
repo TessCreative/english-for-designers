@@ -4,7 +4,7 @@ by Tereza "Tess" Koudelková
 
 27 November 2023
 
-![one_word](images/one-word-homework.png)
+![a vector hand with raised index finger](images/one-word-homework.png)
 
 - [First Draft](first-draft.md) 
 - [Revision](revision.md)
