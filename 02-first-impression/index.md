@@ -7,7 +7,7 @@ TEREZA KOUDELKOVÁ
 
 STORIES – CHARACTERS – GAMES
 
-I am a storyteller with enthusiasm for digital graphics and games. Currently, I am a student and a 3D generalist artist. In future, I'd like to focus on immersive storytelling and creation of unique characters for games.
+I am a storyteller with enthusiasm for digital graphics and games. Currently, in the role of a student and a 3D generalist artist. In future, I'd like to focus on immersive storytelling and creation of unique characters for games.
 
 ## Featured Projects
 
