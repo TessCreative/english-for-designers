@@ -7,7 +7,7 @@ TEREZA KOUDELKOVÁ
 
 STORIES – CHARACTERS – GAMES
 
-I am a storyteller with enthusiasm for digital graphics and games. My main focus is on creation of unique characters who tell immersive stories. I look for a story in everything, and am able to connect seemingly impossible fragments of stories.
+I am a storyteller with enthusiasm for digital graphics and games. Currently, I am a student and a 3D generalist artist. In future, I'd like to focus on immersive storytelling and creation of unique characters for games.
 
 ## Featured Projects
 
@@ -15,7 +15,7 @@ I am a storyteller with enthusiasm for digital graphics and games. My main focus
 ![Library Night](img/Library_Night.png)
 
 ![Library Project Images Collage](img/library-project-images-collage.png)
-- A 3D interior of a library at night and day, quiet and peaceful, hiding many stories
+- A 3D interior of a library at night and day, quiet and peaceful place which hides many stories
 - very first complex (and completed) environment made in Maya software
 - school project for my 1st year finals
 - day & night version
@@ -24,7 +24,7 @@ I am a storyteller with enthusiasm for digital graphics and games. My main focus
 ![Aki Rain](img/aki-rain.png)
 ![Aki Rain Project Images Collage](img/aki-rain-project-images-collage.png)
 - A 3D character sculpt based on the concept of the fursona by the artist of the same name
-- school project
+- school project - exercise
 - challenge: working with two different concept arts and marging them together (differed in details)
 - sculpting, texture (hand-painted), no retopology and rig (posing)
 
@@ -35,7 +35,7 @@ I am a storyteller with enthusiasm for digital graphics and games. My main focus
 - school project (2nd year finals)
 - a collaboration with my brother (cameras, lighting, music) and one of my best friends (choreography)
 - my very first complex animation
-- funfact: Showing this project to some people from the animation work field brought a question if it's a mocap (hand-animated based on a reference from my friend)
+- funfact: Showing this project to some people from the animation work field brought up a question if it is a mocap - no, it's not :)
 
 
 THANK YOU!
