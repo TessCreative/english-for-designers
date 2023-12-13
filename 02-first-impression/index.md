@@ -32,7 +32,7 @@ In the field of digital graphics, I focus mainly on 3D with which I'd like to ac
 
 ### [Hidden World](https://youtu.be/mKqspzBNTH8)
 ![Hidden World](img/hidden-world.png)
-This short animation was made for the 2nd year final exams of my studies. We were given the theme "hidden world" which I decided to depict as the inner world in which one gets lost when devoted to their passion, in this case, dancing. This project was a collaboration since the very beginning. When I knew the story, I asked my brother to compose a music for it (and he also helped me with the lighting and cameras), and my friend to come up with a choreography. Then, I just did the rest: modeling, sculpting, texturing, rigging, animation.
+This short animation was made for the 2nd year final exams of my studies at univeristy. We were given the theme "hidden world" which I decided to depict as the inner world in which one gets lost when devoted to their passion, in this case, dancing. This project was a collaboration since the very beginning. When I knew the story, I asked my brother to compose a music for it (and he also helped me with the lighting and cameras), and my friend to come up with a choreography. Then, I just did the rest: modeling, sculpting, texturing, rigging, animation.
 
 It was my first complex animation that I was working on. And I have a small funfact about it: I did show this project to some people from the animation work of field and it actually brought up a question if it is a mocap – no, it's not :D
 
