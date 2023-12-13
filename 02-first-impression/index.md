@@ -21,7 +21,7 @@ When I'm trying not to drown in responsibilities, I'm probably:
 - enjoying a good book (Fantasy or sci-fi? Bring it!),
 - worldbuilding vast worlds and planning my own stories (writing, writing, writing),
 - redesigning my blog for the thousand time (should probably do it again),
-- trying to save my awesome players from themselves as a DM (Why do you do this to me?),
+- trying to save my awesome players from themselves as a DM (Why? Just, why?),
 - playing games (both board and video),
 - and many more!
 
