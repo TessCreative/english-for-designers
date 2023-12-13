@@ -1,9 +1,8 @@
 # FIRST IMPRESSION - DRAFT
-
-## My story
 ![Tereza Koudelkova](img/tereza-koudelkova.jpg)
 
-TEREZA KOUDELKOVÁ
+## My story
+Hi, I'm Tereza "Tess" Koudelková
 
 STORIES – CHARACTERS – GAMES
 
