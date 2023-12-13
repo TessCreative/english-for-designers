@@ -1,15 +1,39 @@
-# FIRST IMPRESSION
+# FIRST IMPRESSION - DRAFT
 
-## About me
+## My story
 ![Tereza Koudelkova](img/tereza-koudelkova.jpg)
 
 TEREZA KOUDELKOVÁ
 
 STORIES – CHARACTERS – GAMES
 
-I am a storyteller with enthusiasm for digital graphics and games. Currently, in the role of a student and a 3D generalist artist. In future, I'd like to focus on immersive storytelling and creation of unique characters for games.
+I am here to tell immersive stories about unique characters.
 
-## Featured Projects
+It actually took me some time to realize this. I've always been a storyteller with enthusiasm for games. My vivid imagination and desire to show my stories in a visual form brought me to digital graphics. So, here I am, currently in the role of a student and a 3D generalist artist with aim to focus on storytelling and games.
+
+I thought I've always knew what I wanted. It might have changed in time, but I always came back to stories.
+
+I started as a book lover and an amateur writer. My passion for language took me to study literature on high school. Since the very first year, I wanted to get to a publishing house. Somewhen around the third year, I discovered 3D graphics, and it led me here. Soon, I decided that I'd like to focus on character creation. As my time at the university comes to its end, I realize, that I might want to take another step forward.
+
+I came from a very different world of words to discover the world of digital graphics. My love for games aimes me that way, but I've never stopped telling stories.
+
+## Digital Graphic Projects
+In the field of digital graphics, I focus mainly on 3D. However, before I even started with 3D, I used to do some 2D digital graphics such as book covers for my stories, or web layouts just for fun. And I still make some, once in a while!
+
+### [Hidden World](https://youtu.be/mKqspzBNTH8)
+![Hidden World](img/hidden-world.png)
+- A short animation project on the theme of the “hidden world” – the inner world in which one gets lost when devoted to their passion (dancing)
+- school project (2nd year finals)
+- a collaboration with my brother (cameras, lighting, music) and one of my best friends (choreography)
+- my very first complex animation
+- funfact: Showing this project to some people from the animation work field brought up a question if it is a mocap - no, it's not :)
+
+### Aki-Rain
+![Aki Rain](img/aki-rain.png)
+- A 3D character sculpt based on the concept of the fursona by the artist of the same name
+- school project - exercise
+- challenge: working with two different concept arts and marging them together (differed in details)
+- sculpting, texture (hand-painted), no retopology and rig (posing)
 
 ### Library
 ![Library Night](img/Library_Night.png)
@@ -19,23 +43,6 @@ I am a storyteller with enthusiasm for digital graphics and games. Currently, in
 - very first complex (and completed) environment made in Maya software
 - school project for my 1st year finals
 - day & night version
-
-### Aki-Rain
-![Aki Rain](img/aki-rain.png)
-![Aki Rain Project Images Collage](img/aki-rain-project-images-collage.png)
-- A 3D character sculpt based on the concept of the fursona by the artist of the same name
-- school project - exercise
-- challenge: working with two different concept arts and marging them together (differed in details)
-- sculpting, texture (hand-painted), no retopology and rig (posing)
-
-### [Hidden World](https://youtu.be/mKqspzBNTH8)
-![Hidden World](img/hidden-world.png)
-![Hidden World Project Images Collage](img/hidden-world-project-images-collage.png)
-- A short animation project on the theme of the “hidden world” – the inner world in which one gets lost when devoted to their passion (dancing)
-- school project (2nd year finals)
-- a collaboration with my brother (cameras, lighting, music) and one of my best friends (choreography)
-- my very first complex animation
-- funfact: Showing this project to some people from the animation work field brought up a question if it is a mocap - no, it's not :)
 
 
 THANK YOU!
