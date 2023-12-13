@@ -16,8 +16,19 @@ I started as a book lover and an amateur writer. My passion for language took me
 
 I came from a very different world of words to discover the world of digital graphics. My love for games aimes me that way, but I've never stopped telling stories.
 
+## What Else Fills My Heart With Passion
+When I'm trying not to drown in responsibilities, I'm probably:
+- enjoying a good book (Fantasy or sci-fi? Bring it!),
+- worldbuilding vast worlds and planning my own stories (writing, writing, writing),
+- redesigning my blog for the thousand time (should probably do it again),
+- trying to save my awesome players from themselves as a DM (Why do you do this to me?),
+- playing games (both board and video),
+- and many more!
+
+*Oh!* And you can always find me listening to music (I love *Nightcore*, just by the way!).
+
 ## Digital Graphic Projects
-In the field of digital graphics, I focus mainly on 3D. However, before I even started with 3D, I used to do some 2D digital graphics such as book covers for my stories, or web layouts just for fun. And I still make some, once in a while!
+In the field of digital graphics, I focus mainly on 3D with which I'd like to achieve a photorealism, yet because of time, it's not always possible. Before I even started with 3D, I used to do some 2D digital graphics such as book covers for my stories, or web layouts just for fun. And I still make some, once in a while!
 
 ### [Hidden World](https://youtu.be/mKqspzBNTH8)
 ![Hidden World](img/hidden-world.png)
@@ -27,24 +38,18 @@ It was my first complex animation that I was working on. And I have a small funf
 
 ### Aki-Rain
 ![Aki Rain](img/aki-rain.png)
+I made this sculpt of a character as a character creation exercise during school lessons. It is based on the concept of the fursona called Aki-Rain by the artist of the same nickname, and it was actually very challenging because I worked with two different concept arts of the character. They differed only in details but still it was a challenge to merge them together into one.
 
-
--
--   A 3D character sculpt based on the concept of the fursona by the artist of the same name
-- school project - exercise
-- challenge: working with two different concept arts and marging them together (differed in details)
-- sculpting, texture (hand-painted), no retopology and rig (posing)
+I did the sculpting and texturing (hand-painted). And I would like to go back to it one day to finish the retopology and rigging to properly pose the character.
 
 ### Library
 ![Library Night](img/Library_Night.png)
-
 ![Library Project Images Collage](img/library-project-images-collage.png)
-- A 3D interior of a library at night and day, quiet and peaceful place which hides many stories
-- very first complex (and completed) environment made in Maya software
-- school project for my 1st year finals
-- day & night version
+This 3D interior of a library, quiet and peaceful place which hides many stories was the very first complex (and completed) environment I've ever made. It was created in Maya in two versions (day & night), and the process included modeling, UV editing, texturing, lighting and rendering.
 
+This project was challenging on its own as I learned the software during the process of making it. 
+
+## What's Next...?
+In the long term, I work on a few personal storytelling/digital graphics projects I can't yet share, but if you like my work and want to see what will come in the future, feel free to stay tuned!
 
 THANK YOU!
-
-See my [presentation](https://www.canva.com/design/DAFzyQPEQXg/Juk2QSs77XM8zXCNxTtVdQ/view?utm_content=DAFzyQPEQXg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
