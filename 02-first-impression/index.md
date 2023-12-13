@@ -1,7 +1,7 @@
 # FIRST IMPRESSION - DRAFT
 ![Tereza Koudelkova](img/tereza-koudelkova.jpg)
 
-## My story
+## My Story
 Hi, I'm Tereza "Tess" Koudelková
 
 STORIES – CHARACTERS – GAMES
@@ -21,15 +21,16 @@ In the field of digital graphics, I focus mainly on 3D. However, before I even s
 
 ### [Hidden World](https://youtu.be/mKqspzBNTH8)
 ![Hidden World](img/hidden-world.png)
-- A short animation project on the theme of the “hidden world” – the inner world in which one gets lost when devoted to their passion (dancing)
-- school project (2nd year finals)
-- a collaboration with my brother (cameras, lighting, music) and one of my best friends (choreography)
-- my very first complex animation
-- funfact: Showing this project to some people from the animation work field brought up a question if it is a mocap - no, it's not :)
+This short animation was made for the 2nd year final exams of my studies. We were given the theme "hidden world" which I decided to depict as the inner world in which one gets lost when devoted to their passion, in this case, dancing. This project was a collaboration since the very beginning. When I knew the story, I asked my brother to compose a music for it (and he also helped me with the lighting and cameras), and my friend to come up with a choreography. Then, I just did the rest: modeling, sculpting, texturing, rigging, animation.
+
+It was my first complex animation that I was working on. And I have a small funfact about it: I did show this project to some people from the animation work of field and it actually brought up a question if it is a mocap – no, it's not :D
 
 ### Aki-Rain
 ![Aki Rain](img/aki-rain.png)
-- A 3D character sculpt based on the concept of the fursona by the artist of the same name
+
+
+-
+-   A 3D character sculpt based on the concept of the fursona by the artist of the same name
 - school project - exercise
 - challenge: working with two different concept arts and marging them together (differed in details)
 - sculpting, texture (hand-painted), no retopology and rig (posing)
