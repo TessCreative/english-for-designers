@@ -44,7 +44,7 @@ I did the sculpting and texturing (hand-painted). And I would like to go back to
 
 ### Library
 ![Library Night](img/Library_Night.png)
-![Library Project Images Collage](img/library-project-images-collage.png)
+![Library Project Images Collage](img/library-project-collage.png)
 
 This 3D interior of a library, quiet and peaceful place which hides many stories was the very first complex (and completed) environment I've ever made. It was created in Maya in two versions (day & night), and the process included modeling, UV editing, texturing, lighting and rendering.
 
