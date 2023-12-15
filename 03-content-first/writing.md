@@ -4,6 +4,7 @@ by Tereza "Tess" Koudelková
 
 27 November 2023
 
+_____
 But. The two-sided blade word. Which one it’s going to be next time is all up to you.
 
 We use but daily. Sometimes replacing it with a synonym to prevent its overuse. Based on the context, it can have either a positive or a negative meaning.
