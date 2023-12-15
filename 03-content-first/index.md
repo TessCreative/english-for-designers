@@ -1,4 +1,4 @@
-#Tereza "Tess" Koudelková
+# Tereza "Tess" Koudelková
 
 ![Tereza Koudelková](img/tereza-koudelkova.jpg)
 
