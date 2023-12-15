@@ -4,9 +4,9 @@
 
 Hi, I'm Tereza "Tess" Koudelková
 
-STORIES – CHARACTERS – GAMES
+**STORIES – CHARACTERS – GAMES**
 
-I am here to tell immersive stories about unique characters.
+> *"I am here to tell immersive stories about unique characters."*
 
 It actually took me some time to realize this. I've always been a storyteller with enthusiasm for games. My vivid imagination and desire to show my stories in a visual form brought me to digital graphics. So, here I am, currently in the role of a student and a 3D generalist artist with aim to focus on storytelling and games.
 
