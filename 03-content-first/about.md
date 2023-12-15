@@ -1,6 +1,6 @@
 # My Story
 
-![Me in an orange autumn sweater coat and a cap with ears](img/tereza-koudelkova.jpg)
+![Me with significant red hair wearing glasses and an orange autumn sweater coat with a cap with ears](img/tereza-koudelkova.jpg)
 
 Hi, I'm Tereza "Tess" Koudelková
 
