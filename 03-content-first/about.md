@@ -23,7 +23,12 @@ When I'm trying not to drown in responsibilities, I'm probably:
 - enjoying a good book (Fantasy or sci-fi? Bring it!),
 - worldbuilding vast worlds and planning my own stories (writing, writing, writing),
 - redesigning my blog for the thousand time (should probably do it again),
-- trying to save my awesome players from themselves as a DM (Why? Just, why?),
+- trying to save my awesome players from themselves as a GM (Why? Just, why?),
 - playing games (both board and video),
 
 *Oh!* And you can always find me listening to music (I love Nightcore, just by the way!).
+
+
+- [Home](index.md)
+- [My Work](work.md)
+- [My Writing](writing.md)
