@@ -33,3 +33,7 @@ Even if this was actually the very first time I worked in Maya software, I am ve
 ## What's Next...?
 
 In the long term, I work on a few personal storytelling/digital graphics projects I can't yet share, but if you like my work and want to see what will come in the future, feel free to stay tuned!
+
+- [My Story](about.md)
+- [Home](index.md)
+- [My Writing](writing.md)
