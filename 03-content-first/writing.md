@@ -22,3 +22,7 @@ Why is the negative but actually so dangerous? One doesn’t even have to say it
 If but doesn’t have just an informative meaning in the sentence – for example: “Everyone arrived at the meeting, but the manager wasn’t there.” – one should be careful how they actually use it. That goes for all words, as words can hurt a lot if not used with discretion, even the common ones that we use every day.
 
 So, remember, do use “but” but carefully.
+
+- [My Story](about.md)
+- [My Work](work.md)
+- [Home](index.md)
