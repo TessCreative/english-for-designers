@@ -1,9 +1,8 @@
 # Voice, Tone, and Style of Duolingo
--- research --
-
-[Duolingo's Brand Design](https://design.duolingo.com)
 
 ![landscape-lockup](https://github.com/TessCreative/english-for-designers/assets/149793815/996bd7c7-bca4-4735-8d04-27c2fb98c225)
+
+[Duolingo's Brand Design](https://design.duolingo.com)
 
 Duolingo is a language learning app. The company's mission is to develop the best education in the world and make it universally available. Everyone can Duolingo.
 
