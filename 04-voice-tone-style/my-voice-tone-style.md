@@ -3,7 +3,7 @@
 ## Voice
 **Kind and Friendly:** Any time I communicate, I am kind and friendly. I respect others and hope they will do the same. Life taught me not to judge the book by its cover.
 
-**Confident:** I know what I want and why, as well as what I do and why I do it. But that doesn't make me sarcastic, or smug. This confident voice is supposed not to put me above others as "someone better", it is supposed to show my competence and credibility in what I do. To avoid any misunderstandings and truly support it, I always check it out beforehand and use facts and examples.
+**Confident:** I know what I want and why, as well as what I do and why I do it. But that doesn't make me sarcastic, or smug. This confident voice is supposed not to put me above others as "someone better", it is supposed to show my competence and credibility in what I do.
 
 **Caring:** I want the others to know that I care not just about what I do, but also about them. So, no matter who they are or from where they are, I care about everyone's opinion (even negative), comment, note, or question (_Remember. No question is stupid enough to be asked. Not even multiple times._). I keep in touch with those who reach out to me. Trolls? Haters? Scammers? Spammers? Let's go back to the first point and show them there are other ways to deal with people and get their attention.
 
