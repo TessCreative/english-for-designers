@@ -8,9 +8,9 @@
 **Caring:** I want the others to know that I care not just about what I do, but also about them. So, no matter who they are or from where they are, I care about everyone's opinion (even negative), comment, note, or question (_Remember. No question is stupid enough to be asked. Not even multiple times._). I keep in touch with those who reach out to me. Trolls? Haters? Scammers? Spammers? Let's go back to the first point and show them there are other ways to deal with people and get their attention.
 
 ## Tone
-**Personal:** I care about what I do. And I want the others to see it. Using personal tone, I aim to get closer to others and make them feel welcomed. To show my love for what I care about and communicate on friendly bases to be more accessible. I show my interest, passion, enthusiasm,... but I will never exalt myself above others.
+**Personal:** I care about what I do. And I want the others to see it. Using personal tone, I aim to get closer to others and make them feel welcomed. To show my love for what I care about and communicate on friendly bases to be more accessible. I show my interest, passion, enthusiasm, ... but I will never exalt myself above others.
 
-**Professional:** If the situation calls for it, I will use a professional tone to show I am serious about something, yet the voice won't change.
+**Professional:** If the situation calls for it, I will use a professional tone to show I am serious about something, yet the voice doesn't change.
 
 **Creative:** (_I do it my way_) I don't go with the crowd. Somethings popular and everyone is talking about it/is doing it? No, thank you. It might go against the mass rules, it might not attract so many people and bring me thousands of followers and likes. But it is how I want to do it. I don't want to deliver my content as everybody else to get lost among countless of similar ones. It might inspire me, but I won't copy it. Meaning, I try to make and deliver what I do as creatively interesting as possible, eve thou it might not be the current trend.
 
