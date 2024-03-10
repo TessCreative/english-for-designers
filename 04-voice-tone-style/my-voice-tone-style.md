@@ -19,6 +19,6 @@
 
 **Don't use "ALL CAPS" UNLESS...:** Usually, I use other types of formatting such as **bold** or _italic_ to emphasis my thoughts, feelings or important words, HOWEVER; sometimes I do use all caps in personal notes to literally shout at myself for various reasons – usually it's to not to forget or overlook something.
 
-**Organised:** As an orginased person, I need to have an order in everything I do, write, or present. So, if it's not among friends or family where I can get loose from these rules, my way of expression is neatly structured, whether it's an e-mail, presentation, article, video, or anything else. I structure the content do it goes through every important points of given topic, and explains all necessary details without causing confusion.
+**Organised:** As an orginased person, I need to have an order in everything I do, write, or present. So, if it's not among friends or family where I can get loose from these rules, my way of expression is neatly structured, whether it's an e-mail, presentation, article, video, or anything else. I structure the content so it goes through every important points of given topic, and explains all necessary details without causing confusion.
 
 You can also visit my [Research on voice, tone, and style of Duolingo](index.md).
