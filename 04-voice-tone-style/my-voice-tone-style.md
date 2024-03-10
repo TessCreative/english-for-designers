@@ -18,7 +18,7 @@ If the situation calls for it, I will use a professional tone to show I am serio
 ## Style
 **Using emojis:** Through text, people can't see my body language, so I like to emphasise my tone of voice with emojis. With emojis, my messages doesn't sound so serious or dry. However, I do distinguish when and where to use them and when not. That's usually being between friends, family and those I know somehow closer (First, I need to get to know the person to say if it's alright for me to use emojis with them), not in a professional sphere (if not given otherwise). With those really close to me, we might even have an emoji set as a way for saying "Hi" or "Bye" 😊
 
-**Don't use "ALL CAPS" UNLESS...:** Usually, I use other types of formatting to emphasis my thoughts, feelings or important word, HOWEVER; sometimes I do use all caps in personal notes to literally shout at myself for various reasons – usually it's to not to forget or overlook something.
+**Don't use "ALL CAPS" UNLESS...:** Usually, I use other types of formatting such as **bold** or _italic_ to emphasis my thoughts, feelings or important words, HOWEVER; sometimes I do use all caps in personal notes to literally shout at myself for various reasons – usually it's to not to forget or overlook something.
 
 **Organised:** As an orginazed person, I need to have an order in everything I do, write, or present. So, if it's not among friends or family where I can get loose from these rules, my way of expression is neatly structures, whether it's an e-mail, presentation, article, video, or anything else. I structure the content do it goes through every important points of given topic, and explains all necessary details without causing confusion.
 
