@@ -13,7 +13,7 @@ Text
 Text
 
 
-### **Interesting sources to the topic:**
+### **Interesting sources about the topic:**
 
 - [The Unapologetic Pursuit Of Multiple Passions | Nkateko Masinga | TEDxPretoria](https://www.youtube.com/watch?v=GixM6iGbg2U)
 - [Franchesca Ramsey: Here's How to Be a MultipassionateEntrepreneur](https://youtu.be/wVGCWlvB_u8?si=bSRgCxXURV5xaVKL)
