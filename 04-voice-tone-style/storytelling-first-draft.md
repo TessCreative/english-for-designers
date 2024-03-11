@@ -1,5 +1,5 @@
 # ~~Dissocial~~ Personality Of Multiple Passions
-## My Journey to Personal Branding
+## My Journey to Personal/Artistic Branding
 _--This is a first draft--_
 
 text - intro to the topic
