@@ -1,4 +1,4 @@
-# ~~Dissociation~~ Personality Of Multiple Passions
+# ~~Dissocial~~ Personality Of Multiple Passions
 ## My Journey to Personal Branding
 _--This is a first draft--_
 
