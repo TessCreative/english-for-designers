@@ -37,7 +37,7 @@ Then, at school, we have to choose what field of studies we want to pursue. And 
 
 Of course, not every area of interest is possible to study or do as a job. Still, it doesn’t mean we have to limit ourselves.
 
-Having multiple hobbies isn’t a reason for diagnosis of dissociative identity disorder, yet it might lead to some kind of dissociation from one’s true personality. I often found myself in a situation:
+Having multiple hobbies isn’t a reason for diagnosis of dissociative identity disorder. Yet it might lead to some kind of dissociation from one’s true personality. I often found myself in a situation:
 
 - I want to do writing,
 
@@ -59,7 +59,7 @@ Having multiple hobbies isn’t a reason for diagnosis of dissociative identity 
 
 I want to do _everything_!
 
-I have this account with an artistic name under which I share my writing. | Later, I started to be interested in digital graphics, yet at that time, it didn’t feel much connected to my writing (even thou I planned to make my own book trailers or maybe even movies one day). But at that time, I just didn’t see the connection. So, I created another artistic account (and name) for purely my graphic work. | Then, at some point, I started to not just write my own original stories, but also fanfictions, and for some reason, I didn’t want to associate them with the rest of my writing (might be the language difference – I always write fanfictions in English while my original stories were in Czech –, or the unprofessionalism of writing, as I wanted to just write, getting lost in universes I love, without it having to be a perfect level of quality), so I created yet another account for only fanfictions. I also used to have one more artistic account for traditional drawing (which doesn’t exist anymore). | And each time I pursued a new interest, I created yet another alter-ego (call it artistic persona / nickname / or account) under which I shared it. Simply because I didn’t see a connection between them.
+I have this account with an artistic name under which I share my writing. | Later, I started to be interested in digital graphics. Yet at that time, it didn’t feel much connected to my writing (even thou I planned to make my own book trailers or maybe even movies one day). But at that time, I just didn’t see the connection. So, I created another artistic account (and name) for purely my graphic work. | Then, at some point, I started to not just write my own original stories, but also fanfictions. And for some reason, I didn’t want to associate them with the rest of my writing (might be the language difference – I always write fanfictions in English while my original stories were in Czech –, or the unprofessionalism of writing, as I wanted to just write, getting lost in universes I love, without it having to be a perfect level of quality), so I created yet another account for only fanfictions. I also used to have one more artistic account for traditional drawing (which doesn’t exist anymore). | And each time I pursued a new interest, I created yet another alter-ego (call it artistic persona / nickname / or account) under which I shared it. Simply because I didn’t see a connection between them.
 
 Often, I used to have this feeling of dissociation as I was slowly tearing apart my personality, shredding it into pieces.
 
