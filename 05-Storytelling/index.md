@@ -77,10 +77,13 @@ Of course, there’s always that risk of any fanbase. It doesn’t even have to 
 
 I know artists (hobbyists) – not personally, but I follow their work and see how it changes into what’s trendy now and followers expect them to do because everyone does it, right? And I find myself growing distant from what I used to like so much and what brought me to follow their journey at the very beginning. Probably because I am not that type of person who goes with the crowd. Yes, I am highly aware of how contra productive it might be, but I just do things my way. Maybe it means I am one of those trendsetters instead _:) (smile)_
 
-So to sum it up: _(One ring to rule them all – LOTR, Gandalf)_
-There’s absolutely no rule that you have to chose only one thing to focus on.
-There are many pieces of your personality, which together make the one true you.
-Don’t get trapped in that evil spider web.
+**So, to sum it up:** _(One ring to rule them all – LOTR, Gandalf)_
+
+- There’s absolutely no rule that you have to chose only one thing to focus on.
+  
+- There are many pieces of your personality, which together make the one true you.
+  
+- Don’t get trapped in that evil spider web.
 
 It took me a while to accept myself as a multi-passionate person, but here I am, at the beginning of building my artistic brand. And if you guys want to stick near, **Tess Creative **will be happy to have you.
 
