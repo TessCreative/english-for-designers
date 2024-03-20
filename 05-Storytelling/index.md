@@ -85,7 +85,7 @@ I know artists (hobbyists) – not personally, but I follow their work and see h
   
 - Don’t get trapped in that evil spider web.
 
-It took me a while to accept myself as a multi-passionate person, but here I am, at the beginning of building my artistic brand. And if you guys want to stick near, **Tess Creative **will be happy to have you.
+It took me a while to accept myself as a multi-passionate person, but here I am, at the beginning of building my artistic brand. And if you guys want to stick near, **Tess Creative** will be happy to have you.
 
 And remember, the next time you’ll find yourself facing a similar situation, stay true to yourself.
 
