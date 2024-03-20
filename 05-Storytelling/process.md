@@ -30,3 +30,9 @@ Then, I created a mindmap, but it was too messy even for me :D I kept it, anyway
 - summary
 - invitation to Tess Creative 
 - bye! :)
+
+## Interesting Sources to the Topic
+
+- [The Unapologetic Pursuit Of Multiple Passions | Nkateko Masinga | TEDxPretoria](https://www.youtube.com/watch?v=GixM6iGbg2U)
+- [Franchesca Ramsey: Here's How to Be a MultipassionateEntrepreneur](https://youtu.be/wVGCWlvB_u8?si=bSRgCxXURV5xaVKL)
+- [You're Your Own Niche – Personal Branding for the Multi-Passionate Creatives](https://youtu.be/3Yg4lp8xRH0?si=BGcWJaxHUoQWitzd)
