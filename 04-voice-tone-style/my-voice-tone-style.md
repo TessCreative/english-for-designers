@@ -19,6 +19,6 @@
 
 **Using emojis:** Through text, people can't see my body language, so I like to emphasise my tone of voice and feelings with emojis. With emojis, my messages doesn't sound so serious or dry. However, I do distinguish when and where to use them and when not. That's usually being between friends, family and those I know somehow closer (First, I need to get to know the person to say if it's alright for me to use emojis with them), not in a professional sphere (if not given otherwise). With those really close to me, we might even have an emoji set as a way for saying "Hi" or "Bye" 😊
 
-**Don't use "ALL CAPS" UNLESS...:** Usually, I use other types of formatting such as **bold** or _italic_ to emphasis my thoughts, feelings or important words, HOWEVER; sometimes I do use all caps in personal notes to literally shout at myself for various reasons – usually it's to not to forget or overlook something.
+**Don't use "ALL CAPS" UNLESS...:** Usually, I use other types of formatting such as **bold** or _italic_ to emphasis my thoughts, feelings or important words, HOWEVER; sometimes I do use all caps (mainly in personal notes but sometimes elsewhere) to literally shout at myself for various reasons – usually it's to not to forget or overlook something – or point at a specific word in the text.
 
 You can also visit my [Research on voice, tone, and style of Duolingo](index.md).
