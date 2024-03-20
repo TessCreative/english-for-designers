@@ -79,11 +79,11 @@ I know artists (hobbyists) – not personally, but I follow their work and see h
 
 **So, to sum it up:** _(One ring to rule them all – Gandalf, LOTR)_
 
-- There’s absolutely no rule that you have to chose only one thing to focus on.
+- There’s absolutely no rule that you have to chose only **one** thing to focus on.
   
-- There are many pieces of your personality, which together make the one true you.
+- There are many pieces of your personality, which together make the **one** true you.
   
-- Don’t get trapped in that evil spider web.
+- Don’t be the **one** who gets trapped in that evil spider web.
 
 It took me a while to accept myself as a multi-passionate person, but here I am, at the beginning of building my artistic brand. And if you guys want to stick near, **Tess Creative** will be happy to have you.
 
