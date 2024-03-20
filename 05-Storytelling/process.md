@@ -15,7 +15,7 @@ Choosing a topic for my presentation was pretty straightforward process. At firs
 
 ![Screenshot 2024-03-20 at 8 25 44](https://github.com/TessCreative/english-for-designers/assets/149793815/ddff436d-dbc1-4c10-9fed-21c0807f82f8)
 
-Then, I created a mindmap, but it was too messy even for me :D I kept it, anyway, and worked with it as a basic source of my thoughts when I made a clearer list of what I want to talk about. In the end, they conected some of the thoughts from the mindmap in different ways while keeping the main topic, making it more consistent. These were meant for me to keep me in track of the structure of my presentation, co I wouldn't forgot what I want to talk about and in which order.
+Then, I created a mindmap, but it was too messy even for me 😁 I kept it, anyway, and worked with it as a basic source of my thoughts when I made a clearer list of what I want to talk about. In the end, they conected some of the thoughts from the mindmap in different ways while keeping the main topic, making it more consistent. These were meant for me to keep me in track of the structure of my presentation, co I wouldn't forgot what I want to talk about and in which order.
 
 ## Content
 
