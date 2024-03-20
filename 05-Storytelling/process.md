@@ -9,13 +9,13 @@ by Tereza Koudelková
 
 ## Process
 
-Choosing a topic for my presentation was pretty straightforward process. At first, I wasn't really sure about which of the many things I care about I want to talk. I made a list, and then I thought, why not to talk about the current issue that brought me here, and which connects all of my favourite things.
+Choosing a topic for my presentation was a pretty straightforward process. At first, I wasn't really sure about which of the many things I care about I want to talk. I made a list, and then I thought, why not to talk about the current issue that brought me here, and which connects all of my favourite things.
 
-## Mindmap
+## Mind Map
 
 ![Screenshot 2024-03-20 at 8 25 44](https://github.com/TessCreative/english-for-designers/assets/149793815/ddff436d-dbc1-4c10-9fed-21c0807f82f8)
 
-Then, I created a mindmap, but it was too messy even for me 😁 I kept it, anyway, and worked with it as a basic source of my thoughts when I made a clearer list of what I want to talk about. In the end, they conected some of the thoughts from the mindmap in different ways while keeping the main topic, making it more consistent. These were meant for me to keep me in track of the structure of my presentation, co I wouldn't forgot what I want to talk about and in which order.
+Then, I created a mind map, but it was too messy even for me 😁 I kept it, anyway, and worked with it as a basic source of my thoughts when I made a clearer list of what I want to talk about. In the end, they connected some of the thoughts from the min dmap in different ways. Yet, they still kept the main topic, making it more consistent. These were meant for me to keep me in track of the structure of my presentation. Like this, I couldn't forgot what I want to talk about, and in which order.
 
 ## Content
 
