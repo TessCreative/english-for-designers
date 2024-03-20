@@ -77,7 +77,7 @@ Of course, there’s always that risk of any fanbase. It doesn’t even have to 
 
 I know artists (hobbyists) – not personally, but I follow their work and see how it changes into what’s trendy now and followers expect them to do because everyone does it, right? And I find myself growing distant from what I used to like so much and what brought me to follow their journey at the very beginning. Probably because I am not that type of person who goes with the crowd. Yes, I am highly aware of how contra productive it might be, but I just do things my way. Maybe it means I am one of those trendsetters instead _:) (smile)_
 
-**So, to sum it up:** _(One ring to rule them all – LOTR, Gandalf)_
+**So, to sum it up:** _(One ring to rule them all – Gandalf, LOTR)_
 
 - There’s absolutely no rule that you have to chose only one thing to focus on.
   
